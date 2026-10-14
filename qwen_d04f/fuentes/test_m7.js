@@ -1,0 +1,24 @@
+'use strict';
+const assert=require('assert');
+const fs=require('fs');
+const {analyzeM7}=require('./motor_m7');
+const master=fs.readFileSync(__dirname+'/contrato_maestro_extraido.txt','utf8');
+const mk=(text,id='E1')=>({documents:[{id,type:'CONTRATO',text}]});
+let n=0;function test(name,fn){fn();n++;console.log('OK',name)}
+test('requiere documentos',()=>assert.throws(()=>analyzeM7({documents:[]})));
+test('requiere IDs únicos',()=>assert.throws(()=>analyzeM7({documents:[{id:'X',text:'uno'},{id:'X',text:'dos'}]})));
+test('requiere texto',()=>assert.throws(()=>analyzeM7(mk(''))));
+const a=analyzeM7(mk(master,'MAESTRO'));
+test('jurisdicción CL',()=>assert.equal(a.jurisdiction,'CL'));
+test('lee contrato maestro',()=>assert(a.coverage.candidateClauseCount>25));
+test('evidencias con documento',()=>assert(a.documents[0].clauses.every(c=>c.documentId==='MAESTRO')));
+test('no exporta datos financieros',()=>assert.equal(a.safety.financialExportAllowed,false));
+test('no finge verificar derecho',()=>assert.equal(a.sources.legalNormsVerified.length,0));
+test('no inventa conclusión jurídica',()=>assert(a.issues.every(i=>i.legalConclusion===null)));
+test('pide revisión humana',()=>assert.equal(a.safety.humanReviewRequired,true));
+const b=analyzeM7({documents:[{id:'CONT',text:'Artículo 1 | Facturación\n1.1 El pago de la factura deberá realizarse dentro de 30 días.'},{id:'OS',text:'Artículo 2 | Orden de Servicio\n2.1 La Orden de Servicio quedará aceptada cuando el Proveedor confirme su recepción.'}]});
+test('mantiene múltiples documentos',()=>assert.equal(b.coverage.documentCount,2));
+test('no mezcla evidencia entre documentos',()=>assert(b.documents.every(d=>d.clauses.every(c=>c.documentId===d.id))));
+test('texto contractual alternativo genera cláusulas',()=>assert(b.coverage.candidateClauseCount>=1));
+test('salida es serializable',()=>assert.doesNotThrow(()=>JSON.stringify(b)));
+console.log(`TOTAL ${n} PRUEBAS APROBADAS`);
