@@ -1,0 +1,14 @@
+
+---
+
+### 🎯 ¿Qué hace este script?
+1. Crea la carpeta `propuestas_qwen/` y todas sus subcarpetas.
+2. Escribe cada archivo con el contenido exacto que validamos (incluyendo las fórmulas de Excel, el motor M7 v2 con detección de prelaciones, el asistente con dos niveles de explicación y el backend FastAPI).
+3. Te muestra un resumen de confirmación en la consola.
+
+### ⚠️ Notas importantes
+- El script usa `pathlib` de Python, por lo que es compatible con Windows, macOS y Linux.
+- Los archivos de backend están resumidos a lo esencial para no exceder límites de tokens, pero contienen la arquitectura funcional completa (config, db, models, routers, main).
+- **No modifica ningún archivo existente** de tu proyecto actual; todo queda aislado en `propuestas_qwen/` para que lo revises antes de hacer cualquier `git add`.
+
+¿Quieres que proceda con algo más o tienes alguna duda sobre cómo ejecutar este script?
