@@ -1,0 +1,28 @@
+ICEN-CV-001 — CONTRATO SINTÉTICO PARA PRUEBAS DE AYSÉN CONECTA
+Todos los nombres, montos y condiciones son ficticios. Fecha de referencia: 14-10-2026.
+
+CONTRATO PRINCIPAL — Comprador: Compradora Austral SpA. Proveedor: Equipos Patagónicos SpA.
+Cláusula C1. Objeto: suministro, instalación y puesta en marcha de equipos de refrigeración para un centro logístico.
+Cláusula C2. Precio neto fijo del servicio: CLP 120.000.000, antes de IVA. El IVA se agrega conforme a la legislación aplicable.
+Cláusula C3. Plazo de ejecución: 120 días corridos desde el acta de inicio. Fecha ilustrativa del acta: 01-11-2026.
+Cláusula C4. Anticipo: 20% del precio neto contractual, a pagarse antes del inicio y a descontarse proporcionalmente de los estados de pago.
+Cláusula C5. Multa por atraso imputable al proveedor: 0,10% del precio neto por cada día de retraso, con tope acumulado del 10% del precio neto.
+Cláusula C6. Garantía de fiel cumplimiento: 5% del precio neto, mediante boleta bancaria vigente hasta la recepción definitiva. Su costo bancario no está incluido en los costos directos.
+Cláusula C7. Retenciones: 5% de cada estado de pago, hasta acumular 5% del precio neto. Se restituyen después de la recepción definitiva y del cumplimiento de las condiciones documentadas.
+Cláusula C8. Pago: cada factura se paga a 30 días corridos desde su recepción conforme.
+Cláusula C9. Costos presupuestados del proveedor: directos CLP 82.000.000 e indirectos CLP 12.000.000. Los costos financieros y de garantías se determinan separadamente.
+Cláusula C10. Prelación: la modificación de las cláusulas requiere un anexo firmado por ambos representantes; ninguna discrepancia se resolverá automáticamente sin revisar firmas y fechas.
+
+ANEXO A — Cronograma técnico (documento sintético, sin firmas verificables)
+Cláusula A1. El plazo máximo para ejecutar el suministro, instalación y puesta en marcha será de 90 días corridos desde el acta de inicio.
+Cláusula A2. Las entregas parciales referenciales corresponden a 40% del valor neto al día 30, 35% al día 60 y 25% al día 90. Para efectos de simulación se usará el plazo de 90 días sin declarar que prevalece sobre C3.
+
+ANEXO B — Condiciones económicas (documento sintético, sin firmas verificables)
+Cláusula B1. El anticipo requerido para este mismo contrato será equivalente a 30% del precio neto contractual.
+Cláusula B2. Por atraso imputable al proveedor en la misma obligación se aplicará multa de 0,20% del precio neto por día, con tope acumulado del 15% del precio neto.
+Cláusula B3. La garantía de fiel cumplimiento para este contrato equivaldrá a 10% del precio neto y mantendrá el instrumento indicado en C6.
+Cláusula B4. Cada factura por los mismos servicios se pagará a 45 días corridos desde su recepción conforme.
+
+NOTAS OPERATIVAS DEL CASO (no constituyen cláusulas):
+La vigencia y prelación de los anexos no están determinadas. No se adjuntan firmas verificadas.
+La simulación de caja utiliza una hipótesis elegida y declarada, no una resolución legal de contradicciones.
