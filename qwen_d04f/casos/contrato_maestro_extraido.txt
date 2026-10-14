@@ -1,0 +1,763 @@
+                    DOCUMENTO SIMULADO PARA ENTRENAMIENTO ICEN - SIN VALIDEZ JURÍDICA
+
+
+
+
+              ACUERDO MARCO DE SERVICIOS DE
+                 DISPONIBILIDAD OPERACIONAL,
+ GESTIÓN DE FLOTA Y SOPORTE EN TERRENO
+                                             Caso ICEN 2027-211
+
+
+                             INFRAESTRUCTURA AUSTRAL DEMO SpA
+                                                             con
+                       OPERACIONES PATAGÓNICAS INTEGRADAS SpA
+
+                                      Vigencia del Acuerdo Marco: 12 meses
+                              Monto anual de referencia: $210.000.000 CLP netos
+                 Modalidad: Órdenes de Servicio + tarifa base + componentes variables
+
+
+
+     DOCUMENTO SIMULADO - SOLO DEMOSTRACIÓN Y ENTRENAMIENTO DE INTERPRETACIÓN
+
+El documento emplea una estructura y lógica contractual deliberadamente distintas al contrato de prueba anterior. Está diseñado
+ para evaluar la capacidad de ICEN de interpretar definiciones, jerarquías documentales, condiciones activadoras, excepciones,
+                   reglas económicas indirectas y cláusulas que sólo adquieren sentido al leerse en conjunto.
+
+
+
+
+                                 Acuerdo Marco de Servicios - Caso ICEN 2027-211 · Página 1
+
+                  DOCUMENTO SIMULADO PARA ENTRENAMIENTO ICEN - SIN VALIDEZ JURÍDICA
+
+
+
+Carátula de Condiciones Particulares
+ Campo                                                       Condición Particular
+ Código del acuerdo                                          ICEN-AM-2027-211
+                                                             Infraestructura Austral Demo SpA - identificador
+ Mandante
+                                                             ficticio DEMO-MAN-211
+                                                             Operaciones Patagónicas Integradas SpA -
+ Proveedor
+                                                             identificador ficticio DEMO-PRO-211
+ Vigencia                                                    12 meses desde la Fecha Efectiva
+ Fecha Efectiva simulada                                     02 de enero de 2027
+ Área principal                                              Región de Aysén del General Carlos Ibáñez del Campo
+                                                             Disponibilidad operacional de flota, soporte mecánico,
+ Objeto                                                      transporte especial y servicios de terreno activados
+                                                             mediante Órdenes de Servicio
+ Monto anual de referencia                                   $210.000.000 netos
+                                                             No se establece un volumen mínimo garantizado,
+ Compromiso mínimo                                           salvo cargos base que se activen conforme a cada
+                                                             Orden de Servicio
+ Administrador del Mandante                                  Valentina Rojas M. - ficticio
+ Administrador del Proveedor                                 Nicolás San Martín V. - ficticio
+
+
+Las Condiciones Particulares prevalecerán sobre las Condiciones Generales sólo respecto de los
+campos expresamente completados en esta carátula. Una referencia económica o de volumen no
+constituirá obligación de compra salvo que el documento diga de manera expresa “compromiso
+mínimo garantizado”.
+
+
+
+Antecedentes y propósito comercial
+A. El Mandante administra proyectos e instalaciones distribuidos en la Región de Aysén y requiere
+disponer de capacidades de transporte, mantenimiento y apoyo mecánico que pueden variar según
+temporada, frente de trabajo y contingencias.
+B. El Proveedor declara contar con personal, equipos propios y red de apoyo suficiente para atender
+solicitudes variables, sin que el Acuerdo Marco por sí solo obligue al Mandante a requerir un volumen
+determinado.
+C. Las partes han optado por un esquema de Acuerdo Marco: la relación general se regula en este
+instrumento, mientras que la prestación concreta nace cuando se emite y acepta una Orden de
+Servicio conforme al procedimiento pactado.
+D. Las partes desean separar el precio de disponibilidad de la remuneración por uso efectivo,
+incorporando métricas de servicio, créditos por desempeño y mecanismos de reajuste limitados.
+
+
+
+
+                               Acuerdo Marco de Servicios - Caso ICEN 2027-211 · Página 2
+
+                   DOCUMENTO SIMULADO PARA ENTRENAMIENTO ICEN - SIN VALIDEZ JURÍDICA
+
+
+
+PARTE I - Arquitectura del Acuerdo Marco
+Artículo 1 | Naturaleza del acuerdo y ausencia de exclusividad
+1.1 Este instrumento establece las reglas generales bajo las cuales el Mandante podrá solicitar
+Servicios al Proveedor. Salvo por las obligaciones de confidencialidad, seguros, habilitación y otras
+obligaciones expresamente continuas, ningún Servicio deberá ejecutarse si no existe una Orden de
+Servicio vigente.
+1.2 El monto anual de referencia indicado en las Condiciones Particulares se utiliza para
+dimensionamiento, garantías y planificación. No equivale a una orden de compra, presupuesto
+comprometido ni ingreso asegurado.
+1.3 El Mandante podrá contratar servicios equivalentes con terceros. El Proveedor podrá prestar
+servicios a otros clientes siempre que ello no afecte recursos comprometidos en Órdenes de Servicio
+activas.
+Clave interpretativa: El contrato distingue entre el Acuerdo Marco y cada Orden de Servicio. Las obligaciones
+económicas concretas pueden existir sólo mientras una Orden esté activa.
+
+
+
+Artículo 2 | Órdenes de Servicio y formación de la obligación concreta
+2.1 Una Orden de Servicio deberá identificar, al menos, alcance, lugar, fecha o ventana de ejecución,
+recursos comprometidos, modalidad tarifaria y responsable operativo.
+2.2 La Orden se entenderá aceptada cuando ocurra primero uno de los siguientes hechos: (a) firma
+electrónica o aceptación escrita del Proveedor; (b) inicio material de la prestación solicitado por el
+Mandante; o (c) falta de objeción del Proveedor dentro de 2 días hábiles desde una Orden marcada
+como “urgente”, siempre que exista disponibilidad previamente declarada.
+2.3 La aceptación por silencio del literal (c) no operará para servicios que exijan movilización fuera de
+la Región de Aysén, uso de grúa sobre 80 toneladas, materiales peligrosos o personal que deba obtener
+una acreditación nueva.
+2.4 Una Orden podrá incorporar condiciones particulares distintas del Acuerdo Marco únicamente si
+identifica la cláusula que pretende modificar y emplea la expresión “derogación específica”.
+2.5 El formato de Orden incluido en el Anexo C indica que las condiciones comerciales escritas en la
+Orden prevalecen sobre tarifas y plazos generales, aunque no contiene la expresión “derogación
+específica”.
+
+Artículo 3 | Jerarquía documental
+3.1 En caso de discrepancia, se aplicará el siguiente orden: (i) Condiciones Particulares; (ii) Orden de
+Servicio que contenga una derogación específica; (iii) Condiciones Generales de este Acuerdo; (iv)
+Anexo A Tarifas; (v) Anexo B Niveles de Servicio; (vi) demás anexos.
+3.2 Las especificaciones técnicas de una Orden prevalecerán sobre el Anexo D cuando se refieran
+exclusivamente al activo o faena objeto de esa Orden.
+3.3 El Anexo E contiene una tabla de prelación simplificada que ubica a toda Orden de Servicio por
+sobre las Condiciones Generales, sin distinguir si contiene o no una derogación específica.
+
+
+
+
+                              Acuerdo Marco de Servicios - Caso ICEN 2027-211 · Página 3
+
+                 DOCUMENTO SIMULADO PARA ENTRENAMIENTO ICEN - SIN VALIDEZ JURÍDICA
+
+
+
+PARTE II - Modelo económico y certificación
+Artículo 4 | Componentes de remuneración
+4.1 La remuneración puede componerse de: (a) Cargo Base de Disponibilidad; (b) tarifas por hora o
+jornada efectivamente utilizada; (c) movilización y desmovilización; (d) reembolsos autorizados; y (e)
+bonos o créditos de desempeño cuando correspondan.
+4.2 El Cargo Base se devenga por mes calendario durante el cual exista al menos una Orden de Servicio
+activa que reserve disponibilidad mínima de flota o cuadrilla. Si la Orden comienza o termina durante
+el mes, el cargo se prorrateará por días calendario, salvo que la Orden disponga una base mensual
+indivisible.
+4.3 El Anexo A fija un Cargo Base de $16.800.000 netos mensuales para el paquete estándar de
+disponibilidad. La expresión “mínimo mensual” utilizada en dicho Anexo no constituye, por sí sola, un
+mínimo anual de compra.
+4.4 Las horas productivas se facturan conforme al tarifario. Las horas de espera atribuibles al
+Mandante se facturan al 55% de la tarifa horaria, después de una franquicia acumulada de 6 horas por
+Orden.
+4.5 Los tiempos de traslado ordinario dentro de 60 km desde la base declarada se entienden incluidos
+en el Cargo Base. Traslados adicionales se facturan sólo si han sido previstos en la Orden o aprobados
+como Cambio.
+
+Artículo 5 | Reajuste de tarifas
+5.1 Las tarifas permanecerán fijas durante los primeros 6 meses de vigencia.
+5.2 Desde el mes 7, el Proveedor podrá solicitar un reajuste trimestral equivalente al 70% de la
+variación acumulada del IPC desde la Fecha Efectiva, con un máximo de 4% por trimestre.
+5.3 Además, si el precio de referencia del diésel utilizado en el Anexo A aumenta o disminuye más de
+8% respecto de la base, podrá aplicarse un factor combustible únicamente al componente de
+movilización.
+5.4 El Anexo A señala que el factor combustible se activa sólo cuando la variación supera 10% y utiliza
+una referencia distinta para el precio base. La solicitud de reajuste deberá mostrar el método aplicado
+y el dato de referencia utilizado.
+5.5 Ningún reajuste tendrá efecto retroactivo antes de la solicitud formal, salvo error aritmético
+aceptado por ambas partes.
+
+Artículo 6 | Certificación mensual, factura y vencimiento
+6.1 Dentro de los primeros 3 días hábiles de cada mes, el Proveedor entregará un Estado de Servicio
+del mes anterior con horas, jornadas, disponibilidad, tiempos de espera, incidencias, créditos y
+respaldos.
+6.2 El Mandante tendrá 5 días hábiles para emitir el Certificado de Servicio, formular observaciones
+específicas o solicitar respaldo faltante. La falta de pronunciamiento dentro de dicho plazo constituirá
+aceptación provisional para efectos de emitir factura por la porción no cuestionada.
+6.3 La aceptación provisional no se aplicará a cargos asociados a incidentes de seguridad no cerrados,
+daños materiales en investigación ni servicios clasificados como “críticos” en la Orden.
+
+
+                            Acuerdo Marco de Servicios - Caso ICEN 2027-211 · Página 4
+
+                 DOCUMENTO SIMULADO PARA ENTRENAMIENTO ICEN - SIN VALIDEZ JURÍDICA
+
+
+
+6.4 Las facturas correctamente emitidas vencerán a 30 días corridos desde su recepción electrónica
+por el Mandante. Si existe una observación válida, el plazo sólo se suspenderá respecto del monto
+objetado.
+6.5 El Anexo D, utilizado como formulario de Certificado de Servicio, señala que la ausencia de
+observaciones dentro de 5 días hábiles implica “certificación total del Estado de Servicio”, sin
+reproducir las excepciones del numeral 6.3.
+
+Artículo 7 | Pagos, descuentos y compensación
+7.1 El Mandante pagará los montos no controvertidos dentro de plazo, aun cuando existan partidas
+objetadas.
+7.2 Los Créditos de Servicio podrán descontarse de la siguiente factura o acumularse hasta el cierre
+mensual. No podrán duplicarse con un descuento que indemnice exactamente el mismo
+incumplimiento operativo.
+7.3 El Mandante podrá compensar montos líquidos, vencidos y no controvertidos que el Proveedor
+adeude bajo este Acuerdo. Una estimación unilateral de daños no constituirá monto líquido para estos
+efectos.
+7.4 Los pagos efectuados no importan renuncia a observaciones posteriores sobre errores detectados
+mediante auditoría, siempre que se formulen dentro de 90 días desde la factura, excepto fraude o
+información falsa.
+
+
+
+PARTE III - Desempeño, créditos y continuidad operacional
+Artículo 8 | Indicadores de servicio
+8.1 Los principales indicadores serán Disponibilidad Comprometida, Tiempo de Respuesta,
+Cumplimiento de Ventana y Cierre Documental.
+8.2 Los indicadores se medirán mensualmente por cada Orden, salvo que la Orden defina una ventana
+distinta.
+8.3 Un indicador no se considerará incumplido cuando el resultado se deba a: indisponibilidad
+causada por el Mandante, restricción de acceso, fuerza mayor, instrucción de seguridad o
+mantenimiento extraordinario aprobado.
+8.4 Las exclusiones deberán quedar respaldadas en la bitácora operacional dentro de 48 horas desde
+el evento.
+
+Artículo 9 | Créditos de Servicio
+9.1 Si el Proveedor incumple un indicador por causa imputable a él, el Mandante tendrá derecho a un
+Crédito de Servicio calculado conforme al Anexo B.
+9.2 Los Créditos de Servicio son un mecanismo de ajuste comercial y no constituyen, por sí solos, multa
+penal. Su aplicación no impedirá exigir cumplimiento, pero se imputará a cualquier indemnización
+por el mismo hecho para evitar doble recuperación.
+9.3 El total de Créditos aplicables a un mes no excederá 12% del Cargo Base y cargos variables
+facturables de ese mes.
+
+
+
+                            Acuerdo Marco de Servicios - Caso ICEN 2027-211 · Página 5
+
+                 DOCUMENTO SIMULADO PARA ENTRENAMIENTO ICEN - SIN VALIDEZ JURÍDICA
+
+
+
+9.4 Para la indisponibilidad de un recurso crítico, el Anexo B indica un tope especial de 15% mensual.
+No existe una regla expresa que señale si ese 15% sustituye o se acumula al límite general de 12%.
+
+Artículo 10 | Bonificación por desempeño
+10.1 Si durante un trimestre el Proveedor cumple simultáneamente disponibilidad igual o superior a
+98%, cero accidentes con tiempo perdido imputables a su gestión y cierre documental dentro de plazo,
+podrá obtener una bonificación de hasta 2% de los cargos variables del trimestre.
+10.2 La bonificación requerirá validación de datos y no se devengará si existe un incumplimiento
+material pendiente de subsanación.
+10.3 El Anexo B describe la bonificación como automática una vez cumplidos los KPI, mientras este
+artículo la condiciona a validación y ausencia de incumplimiento material.
+
+Artículo 11 | Continuidad, reemplazo y step-in
+11.1 Ante una falla crítica que el Proveedor no pueda atender dentro del tiempo comprometido,
+deberá activar su plan de continuidad y proponer recurso alternativo.
+11.2 Si el Proveedor no restablece un servicio crítico dentro de 8 horas adicionales al tiempo máximo
+de respuesta, el Mandante podrá contratar temporalmente a un tercero para la contingencia.
+11.3 Los costos razonables adicionales del tercero serán de cargo del Proveedor sólo cuando la causa
+sea imputable a éste y los costos hayan sido razonablemente mitigados.
+11.4 El uso de un tercero bajo esta cláusula no constituye terminación ni libera al Proveedor de las
+obligaciones restantes de la Orden.
+
+
+
+PARTE IV - Recursos, personas y cumplimiento operacional
+Artículo 12 | Equipos, titularidad y estado
+12.1 Los equipos comprometidos deberán encontrarse en condición operacional, contar con
+revisiones, permisos y documentación exigibles para el servicio específico.
+12.2 El Proveedor podrá reemplazar un equipo por otro de capacidad igual o superior, previa
+información al Mandante. Si el activo es crítico, el reemplazo requerirá aprobación que no podrá
+negarse sin causa técnica razonable.
+12.3 El Mandante podrá solicitar evidencia de mantenciones, horas de uso y controles de seguridad
+antes del ingreso a faena.
+12.4 La aceptación de un equipo en faena no transfiere al Mandante responsabilidad por defectos
+propios del equipo.
+
+Artículo 13 | Personal y jornada
+13.1 El Proveedor determinará la organización y supervisión de su personal, sujeto a exigencias de
+acceso, seguridad y coordinación del Mandante.
+13.2 El Proveedor será responsable del cumplimiento de remuneraciones, cotizaciones, jornada,
+descanso, seguridad y demás obligaciones laborales y previsionales aplicables.
+
+
+
+
+                            Acuerdo Marco de Servicios - Caso ICEN 2027-211 · Página 6
+
+                 DOCUMENTO SIMULADO PARA ENTRENAMIENTO ICEN - SIN VALIDEZ JURÍDICA
+
+
+
+13.3 Cuando corresponda, el Mandante podrá exigir certificados y respaldos razonables para ejercer
+derechos de información y retención derivados del régimen de subcontratación aplicable en Chile.
+13.4 La falta de antecedentes laborales podrá suspender el pago de la parte asociada a servicios
+respecto de la cual exista un riesgo legal concreto, pero no autoriza retener indiscriminadamente todo
+monto del mes.
+
+Artículo 14 | Subcontratistas
+14.1 Los subcontratistas que ejecuten actividades de terreno deberán ser informados previamente y
+cumplir los mismos estándares de seguridad, confidencialidad y habilitación.
+14.2 Se requerirá aprobación expresa para subcontratar: conducción de cargas sobredimensionadas,
+grúas de alto tonelaje, transporte de sustancias peligrosas o mantenimiento eléctrico de media tensión.
+14.3 Para otras actividades accesorias, la aprobación se entenderá otorgada si el Mandante no formula
+objeciones fundadas dentro de 7 días hábiles de recibidos todos los antecedentes.
+14.4 La aprobación por silencio no reemplaza habilitaciones legales ni acreditaciones de seguridad
+que deban existir antes del ingreso a faena.
+
+Artículo 15 | Seguridad, ambiente y detención de trabajo
+15.1 Las partes reconocen que ninguna urgencia comercial justifica ejecutar una tarea en condición
+insegura.
+15.2 El Mandante podrá detener una tarea por riesgo grave. El Proveedor también podrá detenerla si
+identifica un riesgo no controlado.
+15.3 Si la causa de la detención es imputable al Proveedor, el tiempo no será facturable. Si deriva de
+una condición del sitio no informada y controlada por el Mandante, el tiempo podrá tratarse como
+espera facturable una vez superada la franquicia de 6 horas.
+15.4 Las consecuencias económicas de una detención compartida deberán determinarse según la
+contribución causal documentada.
+
+
+
+PARTE V - Riesgos contractuales, seguros y responsabilidad
+Artículo 16 | Seguros
+16.1 El Proveedor mantendrá durante la vigencia: (a) responsabilidad civil por al menos 12.000 UF por
+evento; (b) cobertura de vehículos y maquinaria conforme a su uso; y (c) seguros legalmente exigibles
+respecto de su personal.
+16.2 Si una póliza vence durante una Orden activa, deberá renovarse antes de la fecha de vencimiento.
+La ausencia de cobertura requerida habilita al Mandante a suspender el recurso afectado.
+16.3 Una suspensión por falta de seguro imputable al Proveedor no genera Cargo Base por el recurso
+indisponible durante ese período.
+
+Artículo 17 | Garantía de cumplimiento
+17.1 Dentro de 10 días hábiles desde la Fecha Efectiva, el Proveedor entregará garantía de
+cumplimiento equivalente a 7% del monto anual de referencia.
+
+
+
+                            Acuerdo Marco de Servicios - Caso ICEN 2027-211 · Página 7
+
+                 DOCUMENTO SIMULADO PARA ENTRENAMIENTO ICEN - SIN VALIDEZ JURÍDICA
+
+
+
+17.2 La garantía se mantendrá vigente hasta 60 días posteriores al término del Acuerdo Marco.
+17.3 Si el monto anual de referencia aumenta por acuerdo formal, la garantía se ajustará
+proporcionalmente. Si el gasto real resulta inferior, no existirá reducción automática durante la
+vigencia.
+17.4 La garantía podrá hacerse efectiva por incumplimiento material, vencido y no subsanado dentro
+del período de cura, o por abandono de una Orden crítica.
+
+Artículo 18 | Responsabilidad e indemnidades
+18.1 Cada parte responderá por daños directos causados por su incumplimiento, negligencia o
+infracción legal, sujeto a los límites indicados en este artículo.
+18.2 La responsabilidad agregada del Proveedor no excederá 30% de las sumas netas efectivamente
+pagadas o pagaderas durante los 12 meses anteriores al hecho que origine la responsabilidad.
+18.3 Durante los primeros 3 meses de vigencia, para evitar que el límite sea nominal, se utilizará como
+base mínima $50.000.000.
+18.4 El límite no se aplicará a dolo, culpa grave, daños personales, obligaciones laborales propias,
+violaciones de confidencialidad, infracción de propiedad intelectual ni daños a bienes del Mandante
+entregados formalmente en custodia.
+18.5 Ninguna parte responderá por daños indirectos, pérdida de producción o lucro cesante, salvo que
+tales conceptos se encuentren expresamente cubiertos por un Crédito de Servicio o indemnidad
+específica.
+18.6 El Anexo F utiliza la expresión “responsabilidad máxima equivalente al 30% del valor anual de
+referencia”, sin incorporar la fórmula móvil del numeral 18.2.
+
+Artículo 19 | Fuerza mayor y condiciones climáticas
+19.1 Se considerará fuerza mayor un evento externo, imprevisible o inevitable que impida
+materialmente la obligación afectada.
+19.2 Lluvia, nieve, bajas temperaturas, viento y restricciones estacionales ordinariamente previsibles
+en Aysén no constituirán por sí solas fuerza mayor.
+19.3 Sí podrán constituir evento excusable el cierre de una ruta por autoridad, aislamiento de una
+faena por un evento extraordinario, desastre natural u otra restricción externa que no pudiera
+razonablemente evitarse.
+19.4 La parte afectada notificará dentro de 48 horas, documentará el impacto y propondrá mitigación.
+La obligación de pago por servicios ya ejecutados no se suspende por fuerza mayor.
+
+
+
+PARTE VI - Datos, tecnología y propiedad intelectual
+Artículo 20 | Plataformas, telemetría y registros
+20.1 El Proveedor utilizará la plataforma operacional designada por el Mandante para registrar
+órdenes, tiempos, ubicación de recursos y cierre de servicios cuando técnicamente sea posible.
+
+
+
+
+                           Acuerdo Marco de Servicios - Caso ICEN 2027-211 · Página 8
+
+                 DOCUMENTO SIMULADO PARA ENTRENAMIENTO ICEN - SIN VALIDEZ JURÍDICA
+
+
+
+20.2 Los registros de telemetría originados en activos del Mandante pertenecen al Mandante. Los
+registros originados exclusivamente en equipos del Proveedor serán del Proveedor, pero éste otorgará
+acceso a la información necesaria para acreditar el servicio.
+20.3 El Proveedor podrá utilizar información agregada y anonimizada para mejorar procesos internos,
+siempre que no permita identificar al Mandante, su personal, clientes o activos.
+20.4 En caso de pérdida de conectividad, la bitácora manual o local tendrá valor provisional y deberá
+sincronizarse dentro de 48 horas desde el restablecimiento.
+
+Artículo 21 | Protección de información y datos personales
+21.1 Cada parte tratará la información personal únicamente para fines de ejecución, seguridad,
+acreditación y administración contractual, conforme a la normativa chilena aplicable.
+21.2 El acceso a información sensible o de seguridad deberá limitarse a personal autorizado.
+21.3 Un incidente de seguridad que afecte información del contrato deberá notificarse a la otra parte
+sin demora injustificada y, en todo caso, dentro de 24 horas desde su confirmación interna.
+21.4 Ninguna disposición de este Acuerdo autoriza al Proveedor a comercializar datos del Mandante o
+del personal asociado a la operación.
+
+Artículo 22 | Propiedad intelectual
+22.1 Cada parte conserva sus metodologías, software, formatos y conocimientos preexistentes.
+22.2 Los reportes y entregables específicos pagados por el Mandante podrán ser utilizados por éste sin
+restricciones para sus fines internos.
+22.3 Las mejoras genéricas, metodologías y herramientas desarrolladas por el Proveedor durante la
+ejecución seguirán siendo de su propiedad si no contienen información confidencial del Mandante ni
+han sido financiadas como desarrollo exclusivo.
+22.4 Cuando una Orden contemple desarrollo exclusivo de software, integración o diseño, deberá
+definir expresamente la titularidad; a falta de definición, se aplicará este artículo.
+
+
+
+PARTE VII - Cambios, suspensión y terminación
+Artículo 23 | Gestión de Cambios
+23.1 Un Cambio es toda modificación que altere alcance, recursos reservados, volumen, secuencia,
+tarifa, ubicación principal o plazo de una Orden.
+23.2 Ningún Cambio tendrá efecto económico hasta ser registrado en una Solicitud de Cambio y
+aprobado por las personas con facultades suficientes.
+23.3 Por razones de continuidad, el Mandante podrá instruir una medida temporal de hasta 72 horas.
+El Proveedor deberá ejecutarla si se encuentra dentro de sus capacidades y no compromete seguridad.
+23.4 Una medida temporal que continúe más allá de 72 horas deberá formalizarse. Si no se formaliza,
+el Proveedor podrá retornar al alcance anterior, salvo emergencia.
+23.5 El correo del Administrador del Mandante será evidencia suficiente de instrucción temporal, pero
+no de aprobación final de un aumento permanente de precio.
+
+
+
+                           Acuerdo Marco de Servicios - Caso ICEN 2027-211 · Página 9
+
+                 DOCUMENTO SIMULADO PARA ENTRENAMIENTO ICEN - SIN VALIDEZ JURÍDICA
+
+
+
+Artículo 24 | Suspensión
+24.1 El Mandante podrá suspender una Orden por seguridad, falta de frente, contingencia operacional
+o conveniencia.
+24.2 Durante los primeros 5 días de suspensión por conveniencia, el Cargo Base continuará
+devengándose al 70% si el Proveedor debe mantener recursos reservados y disponibles.
+24.3 Desde el día 6, las partes definirán si los recursos se liberan. Si el Mandante exige mantenerlos
+reservados, el Cargo Base será 50%; si autoriza su liberación, no habrá Cargo Base.
+24.4 Una suspensión por incumplimiento imputable al Proveedor no genera Cargo Base por el recurso
+afectado.
+
+Artículo 25 | Terminación de una Orden
+25.1 El Mandante podrá terminar una Orden por conveniencia con 15 días corridos de aviso.
+25.2 En tal caso pagará servicios ejecutados, costos de terceros no cancelables previamente aprobados
+y desmovilización razonable. No pagará utilidad sobre servicios no ejecutados.
+25.3 El Proveedor podrá terminar una Orden si existen montos no controvertidos vencidos por más de
+45 días y el Mandante no subsana dentro de 10 días hábiles desde notificación formal.
+
+Artículo 26 | Terminación del Acuerdo Marco
+26.1 Cualquiera de las partes podrá terminar el Acuerdo Marco sin causa con 45 días corridos de aviso,
+sin perjuicio de las Órdenes activas.
+26.2 Salvo que el aviso diga expresamente lo contrario y ambas partes acuerden un plan de cierre, las
+Órdenes activas continuarán hasta su fecha de término.
+26.3 El Mandante podrá terminar inmediatamente por fraude, falsificación de antecedentes, abandono
+de una Orden crítica o incumplimiento grave de seguridad que haga irrazonable la continuidad.
+26.4 La terminación del Acuerdo no extingue obligaciones de pago, confidencialidad, propiedad
+intelectual, auditoría, indemnidad ni solución de controversias que por su naturaleza sobrevivan.
+
+
+
+PARTE VIII - Gobierno, auditoría y controversias
+Artículo 27 | Comité de Servicio y escalamiento
+27.1 Las partes celebrarán una reunión mensual de gestión para revisar KPI, facturación, seguridad,
+cambios, capacidad y previsiones de demanda.
+27.2 Las discrepancias operativas serán tratadas primero por los Administradores. Si no se resuelven
+dentro de 5 días hábiles, pasarán a los representantes comerciales.
+27.3 Ningún acuerdo verbal del Comité modificará precios o responsabilidades sin la formalización
+exigida en este Acuerdo.
+
+Artículo 28 | Auditoría
+28.1 El Mandante podrá auditar antecedentes directamente vinculados a servicios facturados,
+seguridad, habilitaciones y obligaciones laborales, con aviso razonable.
+
+
+
+                           Acuerdo Marco de Servicios - Caso ICEN 2027-211 · Página 10
+
+                  DOCUMENTO SIMULADO PARA ENTRENAMIENTO ICEN - SIN VALIDEZ JURÍDICA
+
+
+
+28.2 El acceso deberá limitarse a información pertinente y respetar confidencialidad comercial del
+Proveedor.
+28.3 Si una auditoría detecta sobrecobro superior a 3% de la muestra revisada por causa imputable al
+Proveedor, éste reembolsará el exceso y el costo razonable de la auditoría específica.
+
+Artículo 29 | Notificaciones
+29.1 Las comunicaciones operativas pueden realizarse mediante la plataforma y correos de los
+Administradores.
+29.2 Notificaciones de terminación, incumplimiento material, ejecución de garantía, reclamo
+indemnizatorio o modificación permanente de precio deberán dirigirse a los representantes indicados
+en el Anexo G.
+29.3 Un mensaje enviado a un Administrador operativo no se considerará por sí solo notificación
+formal de terminación.
+
+Artículo 30 | Ley aplicable y solución de controversias
+30.1 El Acuerdo se regirá por las leyes de la República de Chile.
+30.2 Las partes procurarán una solución ejecutiva durante 15 días hábiles desde el escalamiento.
+30.3 Si no hay acuerdo, la controversia será sometida a arbitraje de derecho ante un árbitro designado
+de común acuerdo; a falta de acuerdo, se solicitará su designación conforme a las reglas
+institucionales pactadas por las partes.
+30.4 La sede del arbitraje será Santiago de Chile. Sin perjuicio de ello, cualquiera podrá solicitar
+medidas cautelares urgentes ante tribunales competentes del lugar donde deba surtir efecto la
+medida.
+30.5 El Anexo G menciona a los tribunales de Coyhaique para cobro ejecutivo de obligaciones líquidas
+y vencidas.
+
+Artículo 31 | Integridad y vigencia
+31.1 Este Acuerdo, sus Condiciones Particulares y anexos constituyen el entendimiento contractual
+entre las partes sobre su materia.
+31.2 La nulidad o ineficacia de una disposición no afectará las restantes, y las partes procurarán
+reemplazarla por una válida de efecto económico equivalente.
+31.3 Los encabezados sirven para lectura y no alteran el alcance de las disposiciones.
+31.4 Este documento es exclusivamente simulado y no produce obligaciones reales.
+
+
+
+Firmas simuladas
+ Mandante                                                 Proveedor
+ INFRAESTRUCTURA AUSTRAL DEMO SpA                         OPERACIONES PATAGÓNICAS INTEGRADAS SpA
+ Representante ficticio: Laura Mella C.                   Representante ficticio: Felipe Andrade S.
+ Cargo: Gerente de Operaciones                            Cargo: Gerente General
+ Firma: ____________________                              Firma: ____________________
+
+
+
+
+                            Acuerdo Marco de Servicios - Caso ICEN 2027-211 · Página 11
+
+                   DOCUMENTO SIMULADO PARA ENTRENAMIENTO ICEN - SIN VALIDEZ JURÍDICA
+
+
+
+
+ANEXO A - Tarifario, bases de cálculo y reajuste
+ Componente                               Tarifa neta                              Base / observación
+                                                                                   Mínimo mensual mientras exista
+ Cargo Base de Disponibilidad
+                                          $16.800.000 / mes                        Orden activa con reserva de
+ estándar
+                                                                                   recursos
+                                                                                   Mínimo 8 horas por jornada
+ Camión tolva 15 m3                       $76.000 / hora
+                                                                                   movilizada
+ Camión pluma                             $98.000 / hora                           Operador incluido
+ Excavadora 22 t                          $112.000 / hora                          Combustible excluido
+ Mecánico senior                          $24.500 / hora                           Mínimo 6 horas por activación
+                                                                                   Incluido en Cargo Base hasta 40
+ Supervisor                               $32.000 / hora
+                                                                                   h/mes
+ Hora de espera atribuible al                                                      Después de franquicia de 6 h
+                                          55% tarifa recurso
+ Mandante                                                                          acumuladas por Orden
+ Movilización extraordinaria              A cotizar                                Fuera de radio ordinario de 60 km
+
+
+Referencia combustible del Anexo A: diésel $1.240/litro. Se aplicará factor de ajuste cuando la
+variación acumulada supere 10%.
+Para efectos del Cargo Base, el Anexo utiliza la expresión “mínimo mensual indivisible”, salvo que la
+Orden señale expresamente prorrateo.
+
+
+
+
+                                Acuerdo Marco de Servicios - Caso ICEN 2027-211 · Página 12
+
+                   DOCUMENTO SIMULADO PARA ENTRENAMIENTO ICEN - SIN VALIDEZ JURÍDICA
+
+
+
+
+ANEXO B - Matriz de SLA, Créditos y Bonos
+ Indicador                  Meta                          Crédito de Servicio             Tope específico
+ Disponibilidad de flota                                  1% del valor mensual por        15% mensual si afecta
+                            >= 96%
+ comprometida                                             cada punto bajo 94%             recurso crítico
+ Respuesta mecánica                                       2% del Cargo Base por
+                            <= 4 h                                                        6% mensual
+ crítica                                                  evento
+ Cumplimiento ventana                                     0,5% cargos variables por
+                            >= 95%                                                        5% mensual
+ logística                                                evento imputable
+ Cierre documental          <= 3 días hábiles             0,25% por día de atraso         2% mensual
+
+
+Tope general indicado en el Anexo: 12% del valor mensual facturable, salvo indisponibilidad crítica,
+cuyo tope específico será 15%.
+Bonificación trimestral: 2% de cargos variables si disponibilidad >=98%, cero accidentes con tiempo
+perdido imputables al Proveedor y cierre documental >=98%. El texto del Anexo señala que la
+bonificación “se devenga automáticamente al verificarse los indicadores”.
+
+
+
+
+                            Acuerdo Marco de Servicios - Caso ICEN 2027-211 · Página 13
+
+                  DOCUMENTO SIMULADO PARA ENTRENAMIENTO ICEN - SIN VALIDEZ JURÍDICA
+
+
+
+
+ANEXO C - Formato de Orden de Servicio
+ Campo                                                     Ejemplo de Orden OS-014
+                                                           Disponibilidad de 2 camiones tolva + soporte
+ Servicio
+                                                           mecánico
+ Ubicación                                                 Ruta 7, sector Río Ibáñez
+ Inicio                                                    15-03-2027
+ Término                                                   30-04-2027
+ Cargo Base                                                $16.800.000 mensual
+ Condición comercial especial                              Pago a 45 días para esta Orden
+                                                           2 camiones tolva, 1 mecánico, 1 supervisor
+ Recursos reservados
+                                                           compartido
+ Derogaciones                                              No se indican expresamente
+                                                           Las condiciones comerciales consignadas en esta
+ Observación de formulario                                 Orden prevalecen sobre las condiciones generales del
+                                                           Acuerdo
+
+
+Aceptación: firma electrónica, correo de aceptación o inicio de prestación. Para órdenes urgentes,
+podrá aplicar el mecanismo previsto en el Artículo 2.
+
+
+
+
+                             Acuerdo Marco de Servicios - Caso ICEN 2027-211 · Página 14
+
+                  DOCUMENTO SIMULADO PARA ENTRENAMIENTO ICEN - SIN VALIDEZ JURÍDICA
+
+
+
+
+ANEXO D - Estado y Certificado Mensual de Servicio
+ Campo                                                   Registro
+ Orden                                                   ________________________
+ Mes                                                     ________________________
+ Cargo Base                                              $_______________________
+ Horas productivas                                       ________________________
+ Horas espera                                            ________________________
+ Movilización                                            $_______________________
+ Créditos de Servicio                                    $_______________________
+ Bonificación                                            $_______________________
+ Monto neto certificado                                  $_______________________
+ Observaciones                                           ________________________
+
+
+Regla del formulario: si el Mandante no formula observaciones escritas dentro de 5 días hábiles desde
+la recepción completa del Estado, éste se considerará certificado en su totalidad para facturación.
+La certificación no impide auditorías posteriores dentro del período contractual correspondiente.
+
+
+
+
+                           Acuerdo Marco de Servicios - Caso ICEN 2027-211 · Página 15
+
+                 DOCUMENTO SIMULADO PARA ENTRENAMIENTO ICEN - SIN VALIDEZ JURÍDICA
+
+
+
+
+ANEXO E - Prelación documental simplificada
+ Prioridad                                               Documento
+ 1                                                       Condiciones Particulares
+ 2                                                       Orden de Servicio vigente
+ 3                                                       Condiciones Generales
+ 4                                                       Anexo A - Tarifas
+ 5                                                       Anexo B - SLA
+ 6                                                       Otros anexos
+
+
+Nota del Anexo E: la Orden de Servicio prevalece respecto de sus campos técnicos y comerciales
+específicos.
+El cuerpo principal exige, para modificar una regla general, identificar la cláusula modificada y
+utilizar la expresión “derogación específica”.
+
+
+
+
+                           Acuerdo Marco de Servicios - Caso ICEN 2027-211 · Página 16
+
+                  DOCUMENTO SIMULADO PARA ENTRENAMIENTO ICEN - SIN VALIDEZ JURÍDICA
+
+
+
+
+ANEXO F - Matriz resumida de riesgos y seguros
+ Riesgo                                 Responsable primario                     Control / cobertura
+ Daño a equipo propio Proveedor         Proveedor                                Seguro de maquinaria
+ Daño a bien del Mandante en                                                     RC + exclusión del límite general
+                                        Proveedor según imputabilidad
+ custodia                                                                        cuando corresponda
+ Cierre vial por autoridad              Evento excusable si cumple Art. 19       Reprogramación / mitigación
+                                                                                 Espera y suspensión conforme Art.
+ Demora por falta de frente             Mandante
+                                                                                 15 y 24
+ Incumplimiento SLA                     Proveedor si imputable                   Crédito de Servicio
+ Responsabilidad agregada               Proveedor                                30% del valor anual de referencia
+
+
+Esta matriz usa “30% del valor anual de referencia” como síntesis del límite de responsabilidad, sin
+reproducir la fórmula de pagos de los últimos 12 meses ni el piso de $50.000.000.
+
+
+
+
+                              Acuerdo Marco de Servicios - Caso ICEN 2027-211 · Página 17
+
+                 DOCUMENTO SIMULADO PARA ENTRENAMIENTO ICEN - SIN VALIDEZ JURÍDICA
+
+
+
+
+ANEXO G - Gobierno, contactos y notificaciones
+ Rol                       Mandante                      Proveedor                       Facultad
+                                                                                         Terminación, cambios
+ Representante
+                           Laura Mella C.                Felipe Andrade S.               permanentes de precio,
+ contractual
+                                                                                         garantías
+ Administrador del                                                                       Gestión operativa y
+                           Valentina Rojas M.            Nicolás San Martín V.
+ Acuerdo                                                                                 coordinación
+                           cuentas@mandante-             facturacion@proveedor-
+ Finanzas                                                                                Certificación y pago
+                           demo.cl                       demo.cl
+                           seguridad@mandante-                                           Incidentes, permisos y
+ Seguridad                                               hseq@proveedor-demo.cl
+                           demo.cl                                                       control
+
+
+Para medidas cautelares, las partes podrán acudir al tribunal competente según la naturaleza y lugar
+de la medida. Para cobro ejecutivo de obligaciones líquidas y vencidas, este Anexo menciona los
+tribunales ordinarios de Coyhaique.
+Todos los nombres y correos son ficticios y se utilizan únicamente para demostración.
+
+
+
+Resumen de características interpretativas del documento
+Este resumen describe la estructura, no la solución de sus eventuales tensiones: (i) el acuerdo marco
+no equivale a una compra garantizada; (ii) las obligaciones económicas pueden activarse por Orden;
+(iii) existen reglas generales, excepciones y formularios operativos que no siempre utilizan la misma
+terminología; (iv) algunas consecuencias dependen de si un servicio es crítico, de quién causó el
+evento o de si una Orden contiene una derogación específica.
+Para una prueba ciega de ICEN, no debe utilizarse este párrafo como sustituto de la lectura completa.
+
+
+                                FIN DEL DOCUMENTO SIMULADO
+
+
+
+
+                           Acuerdo Marco de Servicios - Caso ICEN 2027-211 · Página 18
