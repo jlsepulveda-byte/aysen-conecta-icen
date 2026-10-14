@@ -1,0 +1,26 @@
+CONTRATO SINTÉTICO ICEN-CV-001 — PRUEBA DE DETECCIÓN DE CONTRADICCIONES
+Fecha de referencia: 14-10-2026. Todos los nombres y montos son ficticios.
+
+CONTRATO PRINCIPAL
+Comprador: Compradora Austral SpA. Proveedor: Equipos Patagónicos SpA.
+
+Cláusula C1. Objeto: suministro, instalación y puesta en marcha de equipos de refrigeración.
+Cláusula C2. Precio neto fijo del servicio: CLP 120.000.000, antes de IVA.
+Cláusula C3. Plazo de ejecución: 120 días corridos desde el acta de inicio.
+Cláusula C4. Anticipo: 20% del precio neto contractual, a pagarse antes del inicio.
+Cláusula C5. Multa por atraso: 0,10% del precio neto por día, con tope acumulado del 10%.
+Cláusula C6. Garantía de fiel cumplimiento: 5% del precio neto, mediante boleta bancaria.
+Cláusula C7. Retenciones: 5% de cada estado de pago, hasta acumular 5% del precio neto.
+Cláusula C8. Pago: cada factura se paga a 30 días corridos desde su recepción conforme.
+Cláusula C9. Costos presupuestados: directos CLP 82.000.000 e indirectos CLP 12.000.000.
+Cláusula C10. Prelación: la modificación de cláusulas requiere anexo firmado con "derogación específica".
+
+ANEXO A — Cronograma técnico
+Cláusula A1. El plazo máximo para ejecutar el suministro será de 90 días corridos desde el acta de inicio.
+Cláusula A2. Las entregas parciales corresponden a 40% al día 30, 35% al día 60 y 25% al día 90.
+
+ANEXO B — Condiciones económicas
+Cláusula B1. El anticipo requerido será equivalente a 30% del precio neto contractual.
+Cláusula B2. Por atraso se aplicará multa de 0,20% del precio neto por día, con tope del 15%.
+Cláusula B3. La garantía de fiel cumplimiento equivaldrá a 10% del precio neto.
+Cláusula B4. Cada factura se pagará a 45 días corridos desde su recepción conforme.
